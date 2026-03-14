@@ -1,4 +1,4 @@
-# Case Study Report
+# Car Rental Booking Application - Flutter Case Study Report
 
 ## Title
 
