@@ -4,10 +4,7 @@
 
 - Project Title: Car Rental Booking Mobile Application
 - Subject / Course Name: Flutter
-- Student Name: Ashlin Lee George
-- Roll Number: 150096723011
-- College Name: ITM Skills University
-- Submission Date: 13th Feb 2026
+- Name: Ashlin Lee George
 
 ---
 
